@@ -1,0 +1,17 @@
+title: mookdel.dev Support
+description: Support and documentation for apps by mookdel.dev
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - disciplinio.md
+  - .git/
+  - .gitignore
