@@ -92,6 +92,8 @@ Disciplinio is built with SwiftUI and runs natively on iOS and macOS devices.
 
 Disciplinio takes your privacy seriously. All your tasks and data are stored locally on your device using SwiftData. We don't collect, transmit, or store any of your personal information on external servers. Your task data never leaves your device, ensuring complete privacy and security.
 
+[Read Full Privacy Policy →]({{ site.baseurl }}/disciplinio/privacy-policy)
+
 ---
 
 ## Technical Details
